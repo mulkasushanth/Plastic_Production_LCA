@@ -179,6 +179,20 @@ Please provide appropriate attribution if you use or reference this work.
 
 ---
 
+## References
+
+This project demonstrates the modelling of a simplified plastic production system in OpenLCA. Process inventory values are educational estimates based on engineering literature and publicly available industrial information.
+
+Typical references consulted include:
+
+- OpenLCA Documentation
+- ecoinvent Database (methodology reference)
+- ELCD (European Reference Life Cycle Database)
+- PlasticsEurope Eco-profiles
+- Engineering literature on naphtha cracking, ethylene production and polymerization
+
+---
+
 ## Author
 
 **Mulka Sushanth**
