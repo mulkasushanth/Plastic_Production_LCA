@@ -1,4 +1,4 @@
-Plastic Production Life Cycle Assessment using openLCA
+#Plastic Production Life Cycle Assessment using openLCA
 
 This project presents a simplified cradle-to-gate Life Cycle Assessment (LCA)
 of 1 kg of plastic production developed using openLCA.
